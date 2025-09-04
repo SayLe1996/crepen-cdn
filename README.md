@@ -22,6 +22,10 @@ RestAPI로 서버에 접근하여 데이터를 가져올 수 있으며, 파일 �
 | Server | NestJS 11+ | 데이터 관리용 Rest API Server |
 | Encrypt Service | ASP.NET Core 9.0+ | 파일 암호화용 별도 Scheduler Server |
 
+## 서버 구조
+<img width="4152" height="2896" alt="image" src="https://github.com/user-attachments/assets/6430ca9f-0a54-4ada-bb97-e2d6c3ab2e41" />
+
+
 ## Docker Image
 
 Docker Image로 배포 시, Nexus 로그인 권한이 필요합니다.
