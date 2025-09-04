@@ -33,3 +33,7 @@ Docker Image로 배포 시, Nexus 로그인 권한이 필요합니다.
 | Server | nexus.crepen.cloud/crepencdn-docker/crepen-cdn-server |
 | Encrypt Service | nexus.crepen.cloud/crepencdn-docker/crepen-cdn-encrypt |
  
+
+## 원본 소스
+원본 소스는 내부 GitLab에서 비공개로 관리중입니다.
+https://gitlab.codit.kro.kr
